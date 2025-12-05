@@ -1,8 +1,8 @@
-![name](https://github.com/Tancred423/Tancred423/assets/38757664/41dcc295-2d49-4deb-81d8-3eeee69bf59d)
+![name](https://github.com/tancred423/Tancred423/assets/38757664/41dcc295-2d49-4deb-81d8-3eeee69bf59d)
 
 ## Statistics
-<a href="https://github.com/Tancred423">
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tancred423&layout=compact&langs_count=10" />
+<a href="https://github.com/tancred423">
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tancred423&layout=compact&langs_count=10" />
 </a>
 
 ## Skills
