@@ -1,5 +1,7 @@
 ![name](https://github.com/tancred423/Tancred423/assets/38757664/41dcc295-2d49-4deb-81d8-3eeee69bf59d)
 
+### I moved to GitLab: https://gitlab.com/tancred - See you there :)
+
 ## Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
